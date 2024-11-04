@@ -1,3 +1,5 @@
 David Esteban Martin Acosta
 21
 Aprender los conceptos de poo y poderlos aplicar en el contexto industrial
+Porque la carpeta ya no esta vacia y por lo tanto, eso se considera un cambio sobre el repositorio, en efecto podemos hacer un commit
+Puede ocasionar conflictos 
