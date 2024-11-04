@@ -1,0 +1,1 @@
+Porque la carpeta ya no esta vacia y por lo tanto, eso se considera un cambio sobre el repositorio, en efecto podemos hacer un commit
